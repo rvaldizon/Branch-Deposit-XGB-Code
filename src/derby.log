@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Nov 30 17:19:15 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016e-be65-8661-000008e462a0 
+on database directory /Users/robvaldizon/Documents/Data_Challenges/Bank_Deposit_Classifier/src/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@3f5a660d 
+Loaded from file:/Users/robvaldizon/spark-2.3.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=/Users/robvaldizon/Documents/Data_Challenges/Bank_Deposit_Classifier/src
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
